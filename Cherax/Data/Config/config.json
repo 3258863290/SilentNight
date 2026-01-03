@@ -1,1 +1,8 @@
-1
+{
+	"language": "SilentNight Lua-CN",
+	"logging": 2,
+	"register_as_boss": {
+		"autoregister": false,
+		"type": 0
+	}
+}
